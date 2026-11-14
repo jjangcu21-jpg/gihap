@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /download/
+Sitemap: https://jjangcu21-jpg.github.io/gihap/sitemap.xml
